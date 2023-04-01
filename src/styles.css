@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pokemons {
+  border: 2px solid;
+  width: 450px;
+  height: 800px;
+  margin: 5px;
+}
+
+.pokemon-container li {
+  list-style-type: none;
+  margin: 5px;
+}
